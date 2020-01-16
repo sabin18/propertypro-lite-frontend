@@ -1,0 +1,8 @@
+/* eslint-disable import/prefer-default-export */
+export const DEFAULT_ACTION = 'DEFAULT_ACTION';
+export const GET_ALL_PROPERTIES_SUCCESS = 'GET_ALL_PROPERTIES_SUCCESS';
+export const GET_ALL_PROPERTIES_FAILURE = 'GET_ALL_PROPERTIES_FAILURE';
+export const SIGNUP_SUCCESS = 'SIGNUP_SUCCESS';
+export const SIGNUP_FAILURE = 'SIGNUP_FAILURE';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAILURE = 'LOGIN_FAILURE';
